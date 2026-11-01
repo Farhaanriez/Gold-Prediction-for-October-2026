@@ -35,4 +35,4 @@ Akurasi arah: LR 40.9%, RF 54.5% (22 titik uji).
 Hanya 22 titik uji, prediksi satu langkah ke depan, tanpa fitur eksternal.
 
 ## Cara menjalankan
-Buka notebook di Google Colab, unggah emas.csv, pilih Run all.
+Buka notebook di Google Colab, unggah gold_usd.csv, pilih Run all.
